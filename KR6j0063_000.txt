@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 蘇悉地羯羅供養法
+#+DATE: 2015-08-30 20:25:04.488842
+#+PROPERTY: JUAN 0
