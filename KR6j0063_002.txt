@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:25:04.225372
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:09
 #+TITLE: 蘇悉地羯羅供養法
 #+PROPERTY: CBETA_ID T18n0894a
 #+PROPERTY: ID KR6j0063
